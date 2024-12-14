@@ -755,9 +755,9 @@
   letter-spacing: -2.7px;
   -webkit-text-stroke-width: 5px;
   stroke-width: 5px;
-  -webkit-text-stroke-color: #f57847;
+  -webkit-text-stroke-color: #000000;
   stroke: #f57847;
-  text-shadow: 0px 10px 0px #f57847;
+  text-shadow: 0px 10px 0px #000000;
 }
 .elementor-525
   .elementor-element.elementor-element-235e30e.xpro-widget-bg-overlay
@@ -2946,9 +2946,9 @@
   .elementor-element.elementor-element-256181bb
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background-color: #ffcbb3; */
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
-    url("./images/bg.jpg");
+  background-color: #d47142;
+  /* background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
+    url("./images/bg.jpg"); */
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
@@ -3567,9 +3567,9 @@ body.elementor-page-525:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-525
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background-color: #ffcbb3; */
-  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.7)),
-    url("./images/back.jpg");
+  background-color: #fc8c57;
+  /* background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.7)),
+    url("./images/back.jpg"); */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
