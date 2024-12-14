@@ -210,14 +210,14 @@
   .elementor-element.elementor-element-51b4592
   .elementor-nav-menu--main
   .elementor-item:focus {
-  color: #ff5400;
-  fill: #ff5400;
+  color: #ffcbb3;
+  fill: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-51b4592
   .elementor-nav-menu--main
   .elementor-item.elementor-item-active {
-  color: #ff5400;
+  color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-51b4592
@@ -316,7 +316,7 @@
 .elementor-525
   .elementor-element.elementor-element-76ca9b88
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-76ca9b88
@@ -357,7 +357,7 @@
 .elementor-525
   .elementor-element.elementor-element-76ca9b88
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-76ca9b88.xpro-widget-bg-overlay
@@ -438,7 +438,7 @@
 .elementor-525
   .elementor-element.elementor-element-59731135
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-59731135
@@ -479,7 +479,7 @@
 .elementor-525
   .elementor-element.elementor-element-59731135
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-59731135
@@ -567,7 +567,7 @@
   .xpro-elementor-button:focus
   .xpro-elementor-button-media
   > i {
-  color: red;
+  color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-59731135
@@ -579,7 +579,7 @@
   .xpro-elementor-button:focus
   .xpro-elementor-button-media
   > svg {
-  fill: red;
+  fill: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-750b2cf0
@@ -590,7 +590,7 @@
 .elementor-525
   .elementor-element.elementor-element-750b2cf0
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-750b2cf0
@@ -631,7 +631,7 @@
 .elementor-525
   .elementor-element.elementor-element-750b2cf0
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-750b2cf0.xpro-widget-bg-overlay
@@ -755,9 +755,9 @@
   letter-spacing: -2.7px;
   -webkit-text-stroke-width: 5px;
   stroke-width: 5px;
-  -webkit-text-stroke-color: red;
-  stroke: red;
-  text-shadow: 0px 10px 0px red;
+  -webkit-text-stroke-color: #f57847;
+  stroke: #f57847;
+  text-shadow: 0px 10px 0px #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-235e30e.xpro-widget-bg-overlay
@@ -774,9 +774,9 @@
   letter-spacing: -2.7px;
   -webkit-text-stroke-width: 5px;
   stroke-width: 5px;
-  -webkit-text-stroke-color: red;
-  stroke: red;
-  text-shadow: 0px 5px 0px red;
+  -webkit-text-stroke-color: #f57847;
+  stroke: #f57847;
+  text-shadow: 0px 5px 0px #f57847;
 }
 .elementor-widget-text-editor {
   color: var(--e-global-color-text);
@@ -976,7 +976,7 @@
 .elementor-525
   .elementor-element.elementor-element-1fd23987
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-1fd23987
@@ -1017,7 +1017,7 @@
 .elementor-525
   .elementor-element.elementor-element-1fd23987
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-1fd23987.xpro-widget-bg-overlay
@@ -1348,7 +1348,7 @@
 .elementor-525
   .elementor-element.elementor-element-3f154f3b
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-3f154f3b
@@ -1389,7 +1389,7 @@
 .elementor-525
   .elementor-element.elementor-element-3f154f3b
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-3f154f3b.xpro-widget-bg-overlay
@@ -1786,7 +1786,7 @@
 .elementor-525
   .elementor-element.elementor-element-3886ff5d
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-3886ff5d
@@ -1827,7 +1827,7 @@
 .elementor-525
   .elementor-element.elementor-element-3886ff5d
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-3886ff5d
@@ -2465,7 +2465,7 @@
   transition: background 0.3s;
 }
 .elementor-525 .elementor-element.elementor-element-b3d737f {
-  --image-border-color: red;
+  --image-border-color: #f57847;
   --image-border-width: 4px;
   --image-transition-duration: 800ms;
   --overlay-transition-duration: 800ms;
@@ -2892,7 +2892,7 @@
   .elementor-element.elementor-element-ffc632c
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: red;
+  background-color: #f78b60;
 }
 .elementor-525 .elementor-element.elementor-element-ffc632c,
 .elementor-525 .elementor-element.elementor-element-ffc632c::before {
@@ -2946,7 +2946,7 @@
   .elementor-element.elementor-element-256181bb
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background-color: #ff5400; */
+  /* background-color: #ffcbb3; */
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
     url("./images/bg.jpg");
   background-size: cover;
@@ -3078,7 +3078,7 @@
 .elementor-525
   .elementor-element.elementor-element-681e5964
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-681e5964
@@ -3119,7 +3119,7 @@
 .elementor-525
   .elementor-element.elementor-element-681e5964
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-681e5964.xpro-widget-bg-overlay
@@ -3198,7 +3198,7 @@
 .elementor-525
   .elementor-element.elementor-element-2769f33e
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-2769f33e
@@ -3239,7 +3239,7 @@
 .elementor-525
   .elementor-element.elementor-element-2769f33e
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-2769f33e
@@ -3324,7 +3324,7 @@
 .elementor-525
   .elementor-element.elementor-element-2887a38b
   .xpro-elementor-button-hover-style-flipSlide::before {
-  background-color: red;
+  background-color: #f57847;
 }
 .elementor-525
   .elementor-element.elementor-element-2887a38b
@@ -3365,7 +3365,7 @@
 .elementor-525
   .elementor-element.elementor-element-2887a38b
   [class*="xpro-elementor-button-focus-style-underline"]:focus {
-  background-color: #ff5400;
+  background-color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-2887a38b.xpro-widget-bg-overlay
@@ -3522,14 +3522,14 @@ body.rtl .elementor-525 .elementor-element.elementor-element-64664b22 {
   .elementor-element.elementor-element-7063cada
   .elementor-nav-menu--main
   .elementor-item:focus {
-  color: #ff5400;
-  fill: #ff5400;
+  color: #ffcbb3;
+  fill: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-7063cada
   .elementor-nav-menu--main
   .elementor-item.elementor-item-active {
-  color: #ff5400;
+  color: #ffcbb3;
 }
 .elementor-525
   .elementor-element.elementor-element-7063cada
@@ -3567,8 +3567,8 @@ body.elementor-page-525:not(.elementor-motion-effects-element-type-background),
 body.elementor-page-525
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  /* background-color: #ff5400; */
-  background: linear-gradient(rgba(202, 82, 82, 0.486), rgba(216, 55, 55, 0.4)),
+  /* background-color: #ffcbb3; */
+  background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.7)),
     url("./images/back.jpg");
   background-size: cover;
   background-position: center;
