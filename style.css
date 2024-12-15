@@ -2947,9 +2947,9 @@
   .elementor-element.elementor-element-256181bb
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #379d6d;
-  /* background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
-    url("./images/bg.jpg"); */
+  /* background-color: #379d6d; */
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.3)),
+    url("./images/bg.gif");
   background-size: cover;
   background-position: center right;
   background-repeat: no-repeat;
